@@ -1,5 +1,10 @@
 # Unreal Firebase Auth testing project
 
+## Showcase
+
+https://github.com/user-attachments/assets/3dc35405-95c0-4808-8348-f96a770a1a8d
+
+
 ## Timeline:
    - 13:45-14:30 - Research<br/>
    - 19:30-22:27 - Implementation
