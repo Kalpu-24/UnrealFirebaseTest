@@ -2,7 +2,7 @@
 
 ## Timeline:
    - 13:45-14:30 - Research<br/>
-   - 19:30-22:00 - Implementation
+   - 19:30-22:27 - Implementation
    
 ## Project Setup
 -> Create a new project in firebase console.<br/>
