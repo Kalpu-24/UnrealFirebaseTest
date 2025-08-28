@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/3dc35405-95c0-4808-8348-f96a770a1a8d
 
 -> Run the project and test the authentication.
 
-> **⚠️ Important note:** As the goal was to create MVP for firebase auth, this project does not perform verification checks like email formate, password has capital or special characters etc, currently it expects you to enter proper email and 6 digit password else it will print error on screen debug message.
+> **⚠️ Important note:** As the goal was to create MVP for firebase auth, this project does not perform validation checks like email formate, password has capital or special characters etc, currently it expects you to enter proper email and 6 digit password else it will print error on screen debug message.
 
 ## How it works
 - There are two classes **UFirebaseRegister** and **UFirebaseLogin** which are responsible for registration and login  respectively async nodes exposed to blueprints.
